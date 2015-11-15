@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=controlax
+Exec=webapp-container --inspector ./www/index.html
+Icon=controlax.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

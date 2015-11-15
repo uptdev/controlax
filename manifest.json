@@ -1,0 +1,17 @@
+{
+    "name": "controlax.lapisdecor",
+    "description": "description of controlax",
+    "architecture": "all",
+    "title": "controlax",
+    "hooks": {
+        "controlax": {
+            "apparmor": "controlax.apparmor",
+            "desktop":  "controlax.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Luis Louro <lapisdecor@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

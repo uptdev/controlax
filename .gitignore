@@ -1,3 +1,6 @@
+.*~
+*.click
+
 # C++ objects and libs
 
 *.slo
